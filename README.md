@@ -9,5 +9,9 @@ Freshly squeezed Memes-plot
 
 [IG](IG)   
 
-[GoogleImages](google-images)   
+[GoogleImages](google-images)  
+
+[Whole Collection](all)  
+
+
 
