@@ -1,7 +1,11 @@
 # Meme-collections
 Freshly squeezed Memes-plot     
 
-[Facebook](fb)   
+[Facebook Images](fb_images) 
+
+[Facebook Messages](fb_message)
+
+[Whole Collection with Metadata](all_images_metadata)
 
 [Imgur](imgur)   
 
