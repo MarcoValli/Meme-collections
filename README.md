@@ -1,4 +1,13 @@
 # Meme-collections
-Ciao qua ci sono dei pixplot di memini
-[Facebook](fb)
-[Imgur](/imgur)
+Freshly squeezed Memes-plot     
+
+[Facebook](fb)   
+
+[Imgur](imgur)   
+
+[Knowyourmeme](knowyourmeme)   
+
+[IG](IG)   
+
+[GoogleImages](google-images)   
+
